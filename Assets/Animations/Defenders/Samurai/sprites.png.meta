@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 1214a10f33907ec4eab320034d06191d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_0.png
+    21300002: attack_1.png
+    21300004: attack_2.png
+    21300006: attack_3.png
+    21300008: attack_4.png
+    21300010: attack_5.png
+    21300012: attack_6.png
+    21300014: attack_7.png
+    21300016: idle_0.png
+    21300018: idle_1.png
+    21300020: idle_2.png
+    21300022: idle_3.png
+    21300024: jump_0.png
+    21300026: jump_1.png
+    21300028: jump_2.png
+    21300030: jump_3.png
+    21300032: run_0.png
+    21300034: run_1.png
+    21300036: run_2.png
+    21300038: run_3.png
+    21300040: run_4.png
+    21300042: run_5.png
+    21300044: swim_0.png
+    21300046: swim_1.png
+    21300048: swim_2.png
+    21300050: swim_3.png
+    21300052: swim_4.png
+    21300054: swim_5.png
+    21300056: x_0.png
+    21300058: x_1.png
+    21300060: x_2.png
+    21300062: x_3.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attack_0.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 210
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_1.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_2.png
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 260
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_3.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 280
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_4.png
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 338
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_6.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_7.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 136
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_0.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_2.png
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_0.png
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 42
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_1.png
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 354
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_2.png
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 190
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_3.png
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 358
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_0.png
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 444
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_1.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 104
+        width: 84
+        height: 88
+      alignment: 9
+      pivot: {x: .456954956, y: .390429586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_2.png
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 120
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_3.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_4.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_5.png
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_0.png
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_1.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_2.png
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 284
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_3.png
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_4.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 58
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swim_5.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 432
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_0.png
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_1.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: .378037959, y: .356515259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

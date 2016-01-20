@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 73a8c1f5a9abc75438115f83d14f9ca8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon_bone_0
+    21300002: dragon_bone_1
+    21300004: dragon_bone_2
+    21300006: dragon_bone_3
+    21300008: dragon_bone_4
+    21300010: dragon_bone_5
+    21300012: dragon_bone_6
+    21300014: dragon_bone_7
+    21300016: dragon_bone_8
+    21300018: dragon_bone_9
+    21300020: dragon_bone_10
+    21300022: dragon_bone_11
+    21300024: dragon_bone_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragon_bone_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 74
+        width: 209
+        height: 197
+      alignment: 9
+      pivot: {x: .835632622, y: .204649091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 98
+        width: 117
+        height: 173
+      alignment: 9
+      pivot: {x: .551124275, y: .195107788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 132
+        width: 108
+        height: 139
+      alignment: 9
+      pivot: {x: .213006198, y: .140090063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 167
+        width: 56
+        height: 103
+      alignment: 9
+      pivot: {x: .412606925, y: .141001582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 15
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: .439579934, y: .712782383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 121
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: .694205701, y: .550583601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 101
+        height: 90
+      alignment: 9
+      pivot: {x: .758428574, y: .596671522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 72
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: .187327951, y: .41901204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: .851188958, y: .221140146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: .590628922, y: .296083748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: .547284305, y: .709145069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_bone_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
